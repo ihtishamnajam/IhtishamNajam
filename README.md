@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**ihtishamnajam/IhtishamNajam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--# Hey there, I'm Ihtisham! 👋
+# Hey there, I'm Ihtisham! 👋
 
 Welcome to my corner of GitHub! I am a **Computer Engineering student** at **FAST-NUCES Peshawar (Batch 2026)**. 
 
@@ -38,4 +31,3 @@ I'm always down to collaborate on beginner-friendly projects, study together for
 * 💼 **LinkedIn:** [Your Name](https://linkedin.com)
 
 *Thanks for stopping by! Hit the ⭐ button if you want to follow my journey through FAST.*
-
