@@ -28,6 +28,6 @@ Since I am just starting out, my current focus is building a rock-solid foundati
 I'm always down to collaborate on beginner-friendly projects, study together for midterms, or just chat about tech. 
 
 * 📧 **Email:** [p266520@pwr.nu.edu.pk](mailto:p266520l@pwr.nu.edu.pk)
-* 💼 **LinkedIn:** [Ihtisham Najam]()
+* 💼 **LinkedIn:** [Ihtisham Najam](linkedin.com/in/ihtisham-najam-fast)
 
 *Thanks for stopping by! Hit the ⭐ button if you want to follow my journey through FAST.*
