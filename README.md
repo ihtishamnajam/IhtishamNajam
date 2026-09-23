@@ -27,7 +27,7 @@ Since I am just starting out, my current focus is building a rock-solid foundati
 ### 🤝 Let's Connect!
 I'm always down to collaborate on beginner-friendly projects, study together for midterms, or just chat about tech. 
 
-* 📧 **Email:** [your.email@nu.edu.pk](mailto:your.email@nu.edu.pk)
-* 💼 **LinkedIn:** [Your Name](https://linkedin.com)
+* 📧 **Email:** [p266520@pwr.nu.edu.pk](mailto:p266520l@pwr.nu.edu.pk)
+* 💼 **LinkedIn:** [Ihtisham Najam]()
 
 *Thanks for stopping by! Hit the ⭐ button if you want to follow my journey through FAST.*
